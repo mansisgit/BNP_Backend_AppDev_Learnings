@@ -1,1 +1,16 @@
-Project A: BNP Paribas Interview Preparation 🚀Welcome to my dedicated repository for preparing for the BNP Paribas Software Developer role. This space is a testament to my commitment to mastering core computer science fundamentals and building a strong foundation in professional development practices. This README serves as a living document of my progress and skills.💡 The Master Plan & My ProgressThis isn't just a collection of code—it's a structured journey. Below is the 6-week roadmap I'm following, with my current progress tracked.WeekObjectiveStatusWeek 1Foundations & OOP <br> Java basics, OOP principles, and profile setup.✅ CompletedWeek 2Core DSA & Collections <br> Linked lists, stacks, queues, hash maps, and the Java Collections Framework.✅ CompletedWeek 3Advanced DSA & SQL <br> Graphs, trees, and advanced SQL (Window Functions, Indexing).✅ CompletedWeek 4Portfolio Project <br> Building a professional-grade Spring Boot microservice from scratch.✅ CompletedWeek 5CS Fundamentals & Professional Tools <br> OS, Networking, advanced Git, and System Design basics.✅ CompletedWeek 6Final Polish & Mock Interviews <br> Resume/LinkedIn updates and live coding practice.✅ Completed💻 Project Repository StructureThis repository is organized into distinct folders for each project and practice area, ensuring a clean and professional structure.Employee-Payroll-System/Hotel-Management-System/Finance-Management-Backend/Java-DSA-Solutions/Java-OOP-Concepts/🧠 Skills DemonstratedI've learned and applied a wide range of skills throughout this preparation, which are showcased in the projects above.🌱 What's Next?My journey doesn't stop here. I'm actively seeking opportunities to apply and expand my knowledge in a professional environment. I am eager to learn about new technologies and contribute to challenging projects.If you'd like to connect, you can find me on LinkedIn.Thank you for visiting!
+My Journey to BNP Paribas: A Developer's Prep Repository 🚀
+Hey there! 👋 Welcome to my GitHub. This repository is more than just a place to store code; it's a a living log of my preparation for the Software Developer role at BNP Paribas. I'm tracking my progress here, so you can see exactly where I stand on my journey.WeekObjectiveStatusWeek 1Foundations & OOP , Java basics, OOP principles, and profile setup.
+✅ CompletedWeek 2Core DSA & Collections <br> Linked lists, stacks, queues, hash maps, and the Java Collections Framework.
+✅ CompletedWeek 3Advanced DSA & SQL <br> Graphs, trees, and advanced SQL.
+✅ CompletedWeek 4Portfolio Project <br> Building a professional-grade Spring Boot microservice.
+✅ CompletedWeek 5CS Fundamentals & Professional Tools <br> OS, Networking, Git, and System Design basics.
+✅ CompletedWeek 6Final Polish & Mock Interviews <br> Resume updates, live coding practice, and behavioral prep.
+✅ Completed📂 Repository StructureI've organized my work into distinct directories to keep everything clean and easy to navigate..
+├── Employee-Payroll-System/
+├── Hotel-Management-System/
+├── Finance-Management-Backend/
+├── Java-DSA-Solutions/
+└── Java-OOP-Concepts/
+
+🤝 Let's Connect!I'm always looking to connect with fellow developers and learn from the best. 
+ Feel free to reach out and say hi!LinkedIn Profile: www.linkedin.con/in/mansichate369
